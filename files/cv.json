@@ -1,0 +1,229 @@
+[
+  {
+    "name": "Design",
+    "icon": "icon-vector",
+    "iconColor": "text-purple-500",
+    "items": [
+      {
+        "section": "Design",
+        "items": [
+          {
+            "name": "Print design",
+            "subtitle": "Adobe InDesign and Illustrator",
+            "level": "Advanced"
+          },
+          {
+            "name": "Web design",
+            "subtitle": "Adobe Xd and Illustrator",
+            "level": "Advanced"
+          },
+          {
+            "name": "UI/UX design",
+            "subtitle": "Adobe Xd",
+            "level": "Advanced"
+          }
+        ]
+      },
+      {
+        "section": "Editing",
+        "items": [
+          {
+            "name": "Photo editing",
+            "subtitle": "Adobe Lightroom, Photoshop and Camera Raw",
+            "level": "Basic"
+          },
+          {
+            "name": "Video & audio editing",
+            "subtitle": "Adobe After Effects and Audition",
+            "level": "Basic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Desktop dev",
+    "icon": "icon-screen-desktop",
+    "iconColor": "text-purple-500",
+    "items": [
+      {
+        "section": ".NET Framework/Core",
+        "items": [
+          {
+            "name": "WPF & UWP",
+            "subtitle": "C# + XAML",
+            "level": "Intermediate"
+          },
+          {
+            "name": "WinForms",
+            "subtitle": "C#",
+            "level": "Intermediate"
+          }
+        ]
+      },
+      {
+        "section": "Other languages",
+        "items": [
+          {
+            "name": "C/C++",
+            "subtitle": null,
+            "level": "Basic"
+          },
+          {
+            "name": "Python",
+            "subtitle": null,
+            "level": "Basic"
+          }
+        ]
+      },
+      {
+        "section": "Miscellaneous",
+        "items": [
+          {
+            "name": "Git(Hub)",
+            "subtitle": null,
+            "level": "Basic"
+          },
+          {
+            "name": "PowerShell & Bash",
+            "subtitle": null,
+            "level": "Very basic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mobile dev",
+    "icon": "icon-screen-smartphone",
+    "iconColor": "text-purple-500",
+    "items": [
+      {
+        "section": "Cross-platform",
+        "items": [
+          {
+            "name": "Flutter",
+            "subtitle": "iOS/Android",
+            "level": "Intermediate"
+          },
+          {
+            "name": "Xamarin",
+            "subtitle": "iOS/Android",
+            "level": "Basic"
+          }
+        ]
+      },
+      {
+        "section": "Native",
+        "items": [
+          {
+            "name": "iOS",
+            "subtitle": "Swift + UIKit",
+            "level": "Basic"
+          },
+          {
+            "name": "Android",
+            "subtitle": "Java",
+            "level": "Very basic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Web dev",
+    "icon": "icon-globe",
+    "iconColor": "text-purple-500",
+    "items": [
+      {
+        "section": "Frontend",
+        "items": [
+          {
+            "name": "HTML & CSS",
+            "subtitle": null,
+            "level": "Advanced"
+          },
+          {
+            "name": "JavaScript (ES6)",
+            "subtitle": "& jQuery",
+            "level": "Intermediate"
+          },
+          {
+            "name": "Svelte",
+            "subtitle": "JavaScript",
+            "level": "Intermediate"
+          },
+          {
+            "name": "Blazor",
+            "subtitle": "C# / .NET Core",
+            "level": "Intermediate"
+          }
+        ]
+      },
+      {
+        "section": "Backend",
+        "items": [
+          {
+            "name": "Databases/SQL",
+            "level": "Intermediate"
+          },
+          {
+            "name": "NodeJS",
+            "level": "Basic"
+          },
+          {
+            "name": "PHP",
+            "level": "Basic"
+          }
+        ]
+      },
+      {
+        "section": "Frontend/backend",
+        "items": [
+          {
+            "name": "WordPress",
+            "subtitle": null,
+            "level": "Basic"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Miscellaneous",
+    "icon": "icon-social-dropbox",
+    "iconColor": "text-purple-500",
+    "items": [
+      {
+        "section": "IT-related",
+        "items": [
+          {
+            "name": "LaTeX",
+            "subtitle": null,
+            "level": "Intermediate"
+          },
+          {
+            "name": "Microsoft Office",
+            "subtitle": null,
+            "level": "Advanced"
+          }
+        ]
+      },
+      {
+        "section": "Languages",
+        "items": [
+          {
+            "name": "Croatian",
+            "subtitle": null,
+            "level": "Native speaker"
+          },
+          {
+            "name": "English",
+            "subtitle": null,
+            "level": "Level C1"
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,401 @@
+[
+  {
+    "name": "St@k",
+    "yearStart": 2017,
+    "yearEnd": null,
+    "description": "Design for the <abbr title=\"Faculty of organization and informatics\">FOI</abbr> student magazines St@k and St@kić",
+    "heroImage": "img/card-images/card-stak.svg",
+    "url": "https://issuu.com/foi.stak",
+    "images": [
+      {"src": "img/projects/stak/18.png", "subHtml":  "Magazine cover design - St@k no. 19"},
+      {"src": "img/projects/stak/19.png", "subHtml":  "Page design - St@k no. 19"},
+      {"src": "img/projects/stak/20.png", "subHtml":  "Article design - St@k no. 19"},
+      {"src": "img/projects/stak/21.png", "subHtml":  "Article design - St@k no. 19"},
+      {"src": "img/projects/stak/22.png", "subHtml":  "Article design - St@k no. 19"},
+      {"src": "img/projects/stak/23.png", "subHtml":  "Article design - St@k no. 19"},
+      {"src": "img/projects/stak/15.png", "subHtml":  "Article design - St@k no. 18"},
+      {"src": "img/projects/stak/16.png", "subHtml":  "Article design - St@k no. 18"},
+      {"src": "img/projects/stak/10.png", "subHtml":  "Page design - St@k no. 17"},
+      {"src": "img/projects/stak/7.png", "subHtml":  "Magazine cover design - St@k no. 16"},
+      {"src": "img/projects/stak/6.png", "subHtml":  "Article design - St@k no. 16"},
+      {"src": "img/projects/stak/5.png", "subHtml":  "Article design - St@k no. 15"},
+      {"src": "img/projects/stak/1.png", "subHtml":  "Magazine cover design - St@k no. 14"},
+      {"src": "img/projects/stak/2.png", "subHtml":  "Article design - St@k no. 14"},
+      {"src": "img/projects/stak/3.png", "subHtml":  "Article design - St@k no. 14"},
+      {"src": "img/projects/stak/4.png", "subHtml":  "Article design - St@k no. 13"},
+      {"src": "img/projects/stak/17.png", "subHtml":  "Magazine cover design - St@kić no. 8"},
+      {"src": "img/projects/stak/13.png", "subHtml":  "Magazine cover design - St@kić no. 7"},
+      {"src": "img/projects/stak/14.png", "subHtml":  "Article design - St@kić no. 7"},
+      {"src": "img/projects/stak/12.png", "subHtml":  "Page design - St@kić no. 6"},
+      {"src": "img/projects/stak/8.png", "subHtml":  "Article design - St@kić no. 4"},
+      {"src": "img/projects/stak/9.png", "subHtml":  "Article design - St@kić no. 4"}
+    ],
+    "tags": [
+      {
+        "text": "Print design",
+        "color": "is-primary"
+      },
+      {
+        "text": "InDesign",
+        "color": ""
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      },
+      {
+        "text": "Photoshop",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "STEM Games",
+    "yearStart": 2019,
+    "yearEnd": 2019,
+    "description": "Print design and promo materials for the STEM Games competition",
+    "heroImage": "img/card-images/card-stemgames.svg",
+    "url": "https://stemgames.hr",
+    "images": [
+      {"src": "img/projects/stemGames2019/1.png", "subHtml":  "Facebook event cover image"},
+      {"src": "img/projects/stemGames2019/2.png", "subHtml":  "Event map (print & web)"},
+      {"src": "img/projects/stemGames2019/3.png", "subHtml":  "Signpost"},
+      {"src": "img/projects/stemGames2019/4.png", "subHtml":  "Signpost<br><small>Photo by STEM Games</small>"},
+      {"src": "img/projects/stemGames2019/11.png", "subHtml":  "Banner<br><small>Photo by STEM Games</small>"},
+      {"src": "img/projects/stemGames2019/5.png", "subHtml":  "Sports award (glass engraving)"},
+      {"src": "img/projects/stemGames2019/6.png", "subHtml":  "Sports award (glass engraving)"},
+      {"src": "img/projects/stemGames2019/8.png", "subHtml":  "Sports award (glass engraving)<br><small>Photo by STEM Games</small>"},
+      {"src": "img/projects/stemGames2019/7.png", "subHtml":  "Banner"},
+      {"src": "img/projects/stemGames2019/9.png", "subHtml":  "Banner<br><small>Photo by STEM Games</small>"},
+      {"src": "img/projects/stemGames2019/10.png", "subHtml":  "Banner<br><small>Photo by STEM Games</small>"},
+      {"src": "img/projects/stemGames2019/12.png", "subHtml":  "Accreditation<br><small>Photo by STEM Games</small>"},
+      {"src": "img/projects/stemGames2019/14.png", "subHtml":  "Billboard"},
+      {"src": "img/projects/stemGames2019/13.png", "subHtml":  "Billboard<br><small>Photo by STEM Games</small>"},
+      {"src": "img/projects/stemGames2019/15.png", "subHtml":  "Poster"},
+      {"src": "img/projects/stemGames2019/16.png", "subHtml":  "Certificate"},
+      {"src": "img/projects/stemGames2019/17.png", "subHtml":  "Price list"},
+      {"src": "img/projects/stemGames2019/18.png", "subHtml":  "Poster"}
+    ],
+    "tags": [
+      {
+        "text": "Print design",
+        "color": "is-warning"
+      },
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Textile design",
+        "color": "is-info"
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      },
+      {
+        "text": "Photoshop",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "FOI STEM Games",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "description": "T-shirt and banner designs that represented <abbr title=\"Faculty of organization and informatics\">FOI</abbr> at STEM Games 2018",
+    "heroImage": "img/card-images/card-foistemgames2018.svg",
+    "url": null,
+    "images": [
+      {"src": "img/projects/foiSG2018/1.png", "subHtml":  "T-shirts"},
+      {"src": "img/projects/foiSG2018/2.png", "subHtml":  "T-shirts (for the <i>Knowledge competition</i> team)"},
+      {"src": "img/projects/foiSG2018/3.png", "subHtml":  "Banner"}
+    ],
+    "tags": [
+      {
+        "text": "Print design",
+        "color": "is-primary"
+      },
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "FOI STEM Games",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "description": "T-shirt and banner designs that represented <abbr title=\"Faculty of organization and informatics\">FOI</abbr> at STEM Games 2019",
+    "heroImage": "img/card-images/card-foistemgames2019.svg",
+    "url": null,
+    "images": [
+      {"src": "img/projects/foiSG2019/1.png", "subHtml":  "T-shirts"},
+      {"src": "img/projects/foiSG2019/2.png", "subHtml":  "T-shirts (second design)"},
+      {"src": "img/projects/foiSG2019/3.png", "subHtml":  "Banner"}
+    ],
+    "tags": [
+      {
+        "text": "Print design",
+        "color": "is-primary"
+      },
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "Mladi pomažu",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "description": "Branding and promo materials for the student humanitarian action <i>Mladi pomažu</i>",
+    "heroImage": "img/card-images/card-mladipomazu.svg",
+    "url": null,
+    "images": [
+      {"src": "img/projects/mladiPomazu/3.png", "subHtml":  "Main event poster"},
+      {"src": "img/projects/mladiPomazu/4.png", "subHtml":  "Facebook event cover"},
+      {"src": "img/projects/mladiPomazu/5.png", "subHtml":  "Facebook event cover"},
+      {"src": "img/projects/mladiPomazu/6.png", "subHtml":  "Facebook event cover"},
+      {"src": "img/projects/mladiPomazu/2.png", "subHtml":  "<i>Thank you</i> note"},
+      {"src": "img/projects/mladiPomazu/1.png", "subHtml":  "Promo poster"}
+    ],
+    "tags": [
+      {
+        "text": "Print design",
+        "color": "is-primary"
+      },
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Photoshop",
+        "color": ""
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "Tjedan brucoša",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "description": "Posters and Facebook event covers for events of the <i>Freshman week</i>",
+    "heroImage": "img/card-images/card-tjedanbrucosa.svg",
+    "url": null,
+    "images": [
+      {"src": "img/projects/tjedanBrucosa2018/1.png", "subHtml":  "Main event poster"},
+      {"src": "img/projects/tjedanBrucosa2018/2.png", "subHtml":  "Event schedule (for Facebook)"}
+    ],
+    "tags": [
+      {
+        "text": "Print design",
+        "color": "is-primary"
+      },
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "FOI Student council",
+    "yearStart": 2017,
+    "yearEnd": null,
+    "description": "Visuals and promo materials for the <abbr title=\"Faculty of organization and informatics\">FOI</abbr>'s Student council",
+    "heroImage": "img/card-images/card-szfoi.svg",
+    "url": null,
+    "images": [
+      {"src": "img/projects/szfoi/1.png", "subHtml":  "Poster for the <i>Humanitary week 2018</i>"},
+      {"src": "img/projects/szfoi/2.png", "subHtml":  "Facebook event cover for a party"},
+      {"src": "img/projects/szfoi/3.png", "subHtml":  "Promo materials"},
+      {"src": "img/projects/szfoi/4.png", "subHtml":  "Facebook event cover for a party"},
+      {"src": "img/projects/szfoi/5.png", "subHtml":  "Facebook event cover for a party"},
+      {"src": "img/projects/szfoi/6.png", "subHtml":  "Facebook event cover for a party"},
+      {"src": "img/projects/szfoi/7.png", "subHtml":  "Facebook event cover for a party"},
+      {"src": "img/projects/szfoi/8.png", "subHtml":  "Facebook event cover for a party"},
+      {"src": "img/projects/szfoi/9.png", "subHtml":  "Promotional poster"}
+    ],
+    "tags": [
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Photoshop",
+        "color": ""
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "Brucošijada grada Varaždina",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "description": "Promo materials, accreditations and tickets for the annual student party Brucošijada",
+    "heroImage": "img/card-images/card-brucosijada2018.svg",
+    "url": null,
+    "images": [
+      {"src": "img/projects/brucosijada2018/5.png", "subHtml":  "Event poster"},
+      {"src": "img/projects/brucosijada2018/4.png", "subHtml":  "Facebook event cover"},
+      {"src": "img/projects/brucosijada2018/1.png", "subHtml":  "Accreditation design"},
+      {"src": "img/projects/brucosijada2018/2.png", "subHtml":  "Accreditation design"},
+      {"src": "img/projects/brucosijada2018/3.png", "subHtml":  "Accreditation design"}
+    ],
+    "tags": [
+      {
+        "text": "Print design",
+        "color": "is-primary"
+      },
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Photoshop",
+        "color": ""
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "Aronija Juraj",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "description": "Branding and bottle labels for Aronija Juraj",
+    "heroImage": "img/card-images/card-aronija.svg",
+    "url": null,
+    "images": [
+      {"src": "img/projects/aronijaJuraj/1.png", "subHtml":  "Logo"},
+      {"src": "img/projects/aronijaJuraj/2.png", "subHtml":  "Bottle label - front"},
+      {"src": "img/projects/aronijaJuraj/3.png", "subHtml":  "Bottle label - back"}
+    ],
+    "tags": [
+      {
+        "text": "Print design",
+        "color": "is-primary"
+      },
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Photoshop",
+        "color": ""
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "Dose of sharks",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "description": "Branding and a custom Wordpress website",
+    "heroImage": "img/card-images/card-doseofsharks.svg",
+    "url": "https://doseofsharks.com",
+    "images": [
+      {"src": "img/projects/doseOfSharks/2.png", "subHtml":  "Logo"},
+      {"src": "img/projects/doseOfSharks/1.png", "subHtml":  "Website homepage"},
+      {"src": "img/projects/doseOfSharks/3.png", "subHtml":  "Website shop page"}
+    ],
+    "tags": [
+      {
+        "text": "Web design",
+        "color": "is-warning"
+      },
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Photoshop",
+        "color": ""
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      },
+      {
+        "text": "Wordpress",
+        "color": ""
+      },
+      {
+        "text": "WooCommerce",
+        "color": ""
+      },
+      {
+        "text": "SEO",
+        "color": ""
+      }
+    ]
+  },
+  {
+    "name": "Hip Ocean",
+    "yearStart": 2018,
+    "yearEnd": 2018,
+    "description": "Branding, custom Wordpress website and t-shirt designs",
+    "heroImage": "img/card-images/card-hipocean.svg",
+    "url": "https://hipocean.store",
+    "images": [
+      {"src": "img/projects/hipOcean/2.png", "subHtml":  "Logo"},
+      {"src": "img/projects/hipOcean/4.png", "subHtml":  "Website landing page"},
+      {"src": "img/projects/hipOcean/3.png", "subHtml":  "Website homepage"},
+      {"src": "img/projects/hipOcean/5.png", "subHtml":  "Website shop page"},
+      {"src": "img/projects/hipOcean/1.png", "subHtml":  "Sub-brand logo"}
+    ],
+    "tags": [
+      {
+        "text": "Web design",
+        "color": "is-warning"
+      },
+      {
+        "text": "Digital design",
+        "color": "is-link"
+      },
+      {
+        "text": "Textile design",
+        "color": "is-info"
+      },
+      {
+        "text": "Illustrator",
+        "color": ""
+      },
+      {
+        "text": "Wordpress",
+        "color": ""
+      },
+      {
+        "text": "WooCommerce",
+        "color": ""
+      },
+      {
+        "text": "SEO",
+        "color": ""
+      }
+    ]
+  }
+]
