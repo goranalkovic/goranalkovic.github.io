@@ -5,7 +5,7 @@
     "iconColor": "text-purple-500",
     "items": [
       {
-        "section": "Design",
+        "section": "Design & creative",
         "items": [
           {
             "name": "Print design",
@@ -19,7 +19,7 @@
           },
           {
             "name": "UI/UX design",
-            "subtitle": "Adobe Xd",
+            "subtitle": "Adobe Xd, Figma",
             "level": "Advanced"
           }
         ]
