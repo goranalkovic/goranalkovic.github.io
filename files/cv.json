@@ -144,13 +144,13 @@
             "level": "Advanced"
           },
           {
-            "name": "JavaScript (ES6)",
-            "subtitle": "& jQuery",
+            "name": "JavaScript",
+            "subtitle": null,
             "level": "Intermediate"
           },
           {
             "name": "Svelte",
-            "subtitle": "JavaScript",
+            "subtitle": "A JavaScript framework",
             "level": "Intermediate"
           },
           {
