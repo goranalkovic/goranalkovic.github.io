@@ -5,7 +5,7 @@
     "iconColor": "text-purple-500",
     "items": [
       {
-        "section": "Design & creative",
+        "section": "Design",
         "items": [
           {
             "name": "Print design",
@@ -19,7 +19,7 @@
           },
           {
             "name": "UI/UX design",
-            "subtitle": "Adobe Xd, Figma",
+            "subtitle": "Adobe Xd",
             "level": "Advanced"
           }
         ]
@@ -144,13 +144,13 @@
             "level": "Advanced"
           },
           {
-            "name": "JavaScript",
-            "subtitle": null,
+            "name": "JavaScript (ES6)",
+            "subtitle": "& jQuery",
             "level": "Intermediate"
           },
           {
             "name": "Svelte",
-            "subtitle": "A JavaScript framework",
+            "subtitle": "JavaScript",
             "level": "Intermediate"
           },
           {
