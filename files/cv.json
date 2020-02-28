@@ -1,40 +1,60 @@
 [
   {
     "name": "Design",
-    "icon": "icon-vector",
+    "icon": "bx-paint",
     "iconColor": "text-purple-500",
     "items": [
       {
-        "section": "Design",
+        "section": "Print & web design",
         "items": [
           {
-            "name": "Print design",
-            "subtitle": "Adobe InDesign and Illustrator",
+            "name": "Adobe Xd",
+            "subtitle": null,
             "level": "Advanced"
           },
           {
-            "name": "Web design",
-            "subtitle": "Adobe Xd and Illustrator",
+            "name": "Adobe Illustrator",
+            "subtitle": null,
             "level": "Advanced"
           },
           {
-            "name": "UI/UX design",
-            "subtitle": "Adobe Xd",
+            "name": "Adobe InDesign",
+            "subtitle": null,
             "level": "Advanced"
+          },
+          {
+            "name": "Figma",
+            "subtitle": null,
+            "level": "Intermediate"
           }
         ]
       },
       {
-        "section": "Editing",
+        "section": "UI/UX design",
         "items": [
           {
-            "name": "Photo editing",
-            "subtitle": "Adobe Lightroom, Photoshop and Camera Raw",
+            "name": "Adobe Xd",
+            "subtitle": null,
+            "level": "Advanced"
+          },
+          {
+            "name": "Figma",
+            "subtitle": null,
+            "level": "Intermediate"
+          }
+        ]
+      },
+      {
+        "section": "Photo editing",
+        "items": [
+          {
+            "name": "Adobe Photoshop",
+            "subtitle": null,
             "level": "Basic"
           },
           {
-            "name": "Video & audio editing",
-            "subtitle": "Adobe After Effects and Audition",
+            "name": "Adobe Lightroom + Camera Raw",
+            "subtitle": null,
             "level": "Basic"
           }
         ]
@@ -42,101 +62,12 @@
     ]
   },
   {
-    "name": "Desktop dev",
-    "icon": "icon-screen-desktop",
+    "name": "Development",
+    "icon": "bx-code-alt",
     "iconColor": "text-purple-500",
     "items": [
       {
-        "section": ".NET Framework/Core",
-        "items": [
-          {
-            "name": "WPF & UWP",
-            "subtitle": "C# + XAML",
-            "level": "Intermediate"
-          },
-          {
-            "name": "WinForms",
-            "subtitle": "C#",
-            "level": "Intermediate"
-          }
-        ]
-      },
-      {
-        "section": "Other languages",
-        "items": [
-          {
-            "name": "C/C++",
-            "subtitle": null,
-            "level": "Basic"
-          },
-          {
-            "name": "Python",
-            "subtitle": null,
-            "level": "Basic"
-          }
-        ]
-      },
-      {
-        "section": "Miscellaneous",
-        "items": [
-          {
-            "name": "Git(Hub)",
-            "subtitle": null,
-            "level": "Basic"
-          },
-          {
-            "name": "PowerShell & Bash",
-            "subtitle": null,
-            "level": "Very basic"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Mobile dev",
-    "icon": "icon-screen-smartphone",
-    "iconColor": "text-purple-500",
-    "items": [
-      {
-        "section": "Cross-platform",
-        "items": [
-          {
-            "name": "Flutter",
-            "subtitle": "iOS/Android",
-            "level": "Intermediate"
-          },
-          {
-            "name": "Xamarin",
-            "subtitle": "iOS/Android",
-            "level": "Basic"
-          }
-        ]
-      },
-      {
-        "section": "Native",
-        "items": [
-          {
-            "name": "iOS",
-            "subtitle": "Swift + UIKit",
-            "level": "Basic"
-          },
-          {
-            "name": "Android",
-            "subtitle": "Java",
-            "level": "Very basic"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Web dev",
-    "icon": "icon-globe",
-    "iconColor": "text-purple-500",
-    "items": [
-      {
-        "section": "Frontend",
+        "section": "Web",
         "items": [
           {
             "name": "HTML & CSS",
@@ -144,19 +75,24 @@
             "level": "Advanced"
           },
           {
-            "name": "JavaScript (ES6)",
-            "subtitle": "& jQuery",
+            "name": "JavaScript",
+            "subtitle": null,
             "level": "Intermediate"
           },
           {
             "name": "Svelte",
-            "subtitle": "JavaScript",
+            "subtitle": null,
             "level": "Intermediate"
           },
           {
             "name": "Blazor",
-            "subtitle": "C# / .NET Core",
+            "subtitle": null,
             "level": "Intermediate"
+          },
+          {
+            "name": "WordPress",
+            "subtitle": null,
+            "level": "Basic"
           }
         ]
       },
@@ -178,12 +114,77 @@
         ]
       },
       {
-        "section": "Frontend/backend",
+        "section": "Cross-platform",
         "items": [
           {
-            "name": "WordPress",
+            "name": "Flutter",
+            "subtitle": "iOS/Android/Web",
+            "level": "Intermediate"
+          },
+          {
+            "name": "Xamarin",
+            "subtitle": "iOS/Android",
+            "level": "Basic"
+          }
+        ]
+      },
+      {
+        "section": "Mobile native",
+        "items": [
+          {
+            "name": "iOS",
+            "subtitle": "Swift + UIKit",
+            "level": "Basic"
+          },
+          {
+            "name": "Android",
+            "subtitle": "Java, Kotlin",
+            "level": "Very basic"
+          }
+        ]
+      },
+      {
+        "section": "Desktop",
+        "items": [
+          {
+            "name": "WPF & UWP",
+            "subtitle": "C# + XAML",
+            "level": "Intermediate"
+          },
+          {
+            "name": "WinForms",
+            "subtitle": "C#",
+            "level": "Intermediate"
+          },
+          {
+            "name": "Electron",
             "subtitle": null,
             "level": "Basic"
+          }
+        ]
+      },
+      {
+        "section": "Other",
+        "items": [
+          {
+            "name": "C/C++",
+            "subtitle": null,
+            "level": "Basic"
+          },
+          {
+            "name": "Python",
+            "subtitle": null,
+            "level": "Basic"
+          },
+          {
+            "name": "Git(Hub)",
+            "subtitle": null,
+            "level": "Basic"
+          },
+          {
+            "name": "PowerShell & Bash",
+            "subtitle": null,
+            "level": "Very basic"
           }
         ]
       }
@@ -191,11 +192,11 @@
   },
   {
     "name": "Miscellaneous",
-    "icon": "icon-social-dropbox",
+    "icon": "bx-hive",
     "iconColor": "text-purple-500",
     "items": [
       {
-        "section": "IT-related",
+        "section": "Software",
         "items": [
           {
             "name": "LaTeX",
