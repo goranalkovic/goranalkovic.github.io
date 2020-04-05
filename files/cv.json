@@ -1,98 +1,22 @@
 [
   {
-    "name": "Design",
-    "icon": "bx-paint",
-    "iconColor": "text-purple-500",
+    "name": "Web dev",
+    "icon": "bx-globe",
     "items": [
       {
-        "section": "Print & web design",
+        "section": "Frontend",
         "items": [
           {
-            "name": "Adobe Xd",
-            "subtitle": null,
-            "level": "Advanced"
-          },
-          {
-            "name": "Adobe Illustrator",
-            "subtitle": null,
-            "level": "Advanced"
-          },
-          {
-            "name": "Adobe InDesign",
-            "subtitle": null,
-            "level": "Advanced"
-          },
-          {
-            "name": "Figma",
-            "subtitle": null,
-            "level": "Intermediate"
-          }
-        ]
-      },
-      {
-        "section": "UI/UX design",
-        "items": [
-          {
-            "name": "Adobe Xd",
-            "subtitle": null,
-            "level": "Advanced"
-          },
-          {
-            "name": "Figma",
-            "subtitle": null,
-            "level": "Intermediate"
-          }
-        ]
-      },
-      {
-        "section": "Photo editing",
-        "items": [
-          {
-            "name": "Adobe Photoshop",
-            "subtitle": null,
-            "level": "Basic"
-          },
-          {
-            "name": "Adobe Lightroom + Camera Raw",
-            "subtitle": null,
-            "level": "Basic"
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "name": "Development",
-    "icon": "bx-code-alt",
-    "iconColor": "text-purple-500",
-    "items": [
-      {
-        "section": "Web",
-        "items": [
-          {
-            "name": "HTML & CSS",
-            "subtitle": null,
-            "level": "Advanced"
-          },
-          {
-            "name": "JavaScript",
-            "subtitle": null,
-            "level": "Intermediate"
+            "name": "General frontend",
+            "subtitle": "HTMl, CSS, JavaSript (ES6)"
           },
           {
             "name": "Svelte",
-            "subtitle": null,
-            "level": "Intermediate"
+            "subtitle": "JavaScript"
           },
           {
             "name": "Blazor",
-            "subtitle": null,
-            "level": "Intermediate"
-          },
-          {
-            "name": "WordPress",
-            "subtitle": null,
-            "level": "Basic"
+            "subtitle": "C# .NET Core"
           }
         ]
       },
@@ -100,66 +24,150 @@
         "section": "Backend",
         "items": [
           {
-            "name": "Databases/SQL",
-            "level": "Intermediate"
-          },
-          {
-            "name": "NodeJS",
-            "level": "Basic"
+            "name": "Database basics",
+            "subtitle": "SQL"
           },
           {
             "name": "PHP",
-            "level": "Basic"
+            "subtitle": "Vanilla"
+          },
+          {
+            "name": "NodeJS"
           }
         ]
       },
+      {
+        "section": "Front/backend",
+        "items": [
+          {
+            "name": "Wordpress",
+            "subtitle": "Site setup, customization, basic SEO"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Mobile dev",
+    "icon": "bx-mobile-alt",
+    "items": [
       {
         "section": "Cross-platform",
         "items": [
           {
             "name": "Flutter",
-            "subtitle": "iOS/Android/Web",
-            "level": "Intermediate"
+            "subtitle": "Native Android, iOS, web - Dart"
           },
           {
             "name": "Xamarin",
-            "subtitle": "iOS/Android",
-            "level": "Basic"
+            "subtitle": "Android, iOS - C#"
           }
         ]
       },
       {
-        "section": "Mobile native",
+        "section": "Native",
         "items": [
           {
-            "name": "iOS",
-            "subtitle": "Swift + UIKit",
-            "level": "Basic"
+            "name": "iOS (basic)",
+            "subtitle": "Swift + UIKit / SwiftUI"
           },
           {
-            "name": "Android",
-            "subtitle": "Java, Kotlin",
-            "level": "Very basic"
+            "name": "Android (basic)",
+            "subtitle": "Kotlin, Java"
           }
         ]
-      },
+      }
+    ]
+  },
+  {
+    "name": "Desktop dev",
+    "icon": "bx-window-alt",
+    "items": [
       {
-        "section": "Desktop",
+        "section": "Microsoft .NET",
         "items": [
           {
-            "name": "WPF & UWP",
-            "subtitle": "C# + XAML",
-            "level": "Intermediate"
+            "name": "UWP, WPF",
+            "subtitle": ".NET Core - X#, XAML"
           },
           {
             "name": "WinForms",
-            "subtitle": "C#",
-            "level": "Intermediate"
-          },
+            "subtitle": ".NET Framework - C#"
+          }
+        ]
+      },
+      {
+        "section": "Hybrid",
+        "items": [
           {
             "name": "Electron",
-            "subtitle": null,
-            "level": "Basic"
+            "subtitle": "HTML, CSS, JS"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Dev misc.",
+    "icon": "bx-code-curly",
+    "items": [
+      {
+        "section": "Other languages",
+        "items": [
+          {
+            "name": "C/C++ (basic)"
+          },
+          {
+            "name": "Python"
+          },
+          {
+            "name": "Shell scripting basics",
+            "subtitle": "PowerShell, Bash"
+          }
+        ]
+      },
+      {
+        "section": "Dev-related",
+        "items": [
+          {
+            "name": "Version control",
+            "subtitle": "GitHub"
+          },
+          {
+            "name": "CI/CD basics"
+          },
+          {
+            "name": "SCRUM/Agile workflows"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Design",
+    "icon": "bx-paint",
+    "items": [
+      {
+        "section": "Graphic design",
+        "items": [
+          {
+            "name": "Adobe InDesign",
+            "subtitle": "Desktop publishing"
+          },
+          {
+            "name": "Adobe Illustrator",
+            "subtitle": "Logos and illustrations"
+          }
+        ]
+      },
+      {
+        "section": "UI/UX design",
+        "items": [
+          {
+            "name": "Adobe Xd"
+          },
+          {
+            "name": "Figma"
           }
         ]
       },
@@ -167,61 +175,53 @@
         "section": "Other",
         "items": [
           {
-            "name": "C/C++",
-            "subtitle": null,
-            "level": "Basic"
+            "name": "Photo editing",
+            "subtitle": "Adobe Photoshop, Lightroom"
           },
           {
-            "name": "Python",
-            "subtitle": null,
-            "level": "Basic"
-          },
-          {
-            "name": "Git(Hub)",
-            "subtitle": null,
-            "level": "Basic"
-          },
-          {
-            "name": "PowerShell & Bash",
-            "subtitle": null,
-            "level": "Very basic"
+            "name": "A/V editing basics",
+            "subtitle": "Adobe After Effects, Premiere Pro and Audition"
           }
         ]
       }
     ]
   },
   {
-    "name": "Miscellaneous",
-    "icon": "bx-hive",
-    "iconColor": "text-purple-500",
+    "name": "Langs.",
+    "icon": "bx-flag",
     "items": [
       {
-        "section": "Software",
-        "items": [
-          {
-            "name": "LaTeX",
-            "subtitle": null,
-            "level": "Intermediate"
-          },
-          {
-            "name": "Microsoft Office",
-            "subtitle": null,
-            "level": "Advanced"
-          }
-        ]
-      },
-      {
-        "section": "Languages",
         "items": [
           {
             "name": "Croatian",
-            "subtitle": null,
-            "level": "Native speaker"
+            "subtitle": "Native speaker"
           },
           {
             "name": "English",
-            "subtitle": null,
-            "level": "Level C1"
+            "subtitle": "Level C1"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Misc.",
+    "icon": "bx-hive",
+    "hide": true,
+    "items": [
+      {
+        "items": [
+          {
+            "name": "LaTeX",
+            "subtitle": null
+          },
+          {
+            "name": "Microsoft Office",
+            "subtitle": null
+          },
+          {
+            "name": "Computer networking basics",
+            "subtitle": null
           }
         ]
       }
