@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.4" tiledversion="1.4.2" orientation="orthogonal" renderorder="right-down" width="58" height="21" tilewidth="32" tileheight="32" infinite="0" backgroundcolor="#ffffff" nextlayerid="4" nextobjectid="126">
+ <editorsettings>
+  <export target="davelvl1.tmx" format="tmx"/>
+ </editorsettings>
+ <tileset firstgid="1" name="DangerousDaveRedux" tilewidth="32" tileheight="32" tilecount="64" columns="8">
+  <image source="../images/DangerousDaveRedux.png" width="256" height="256"/>
+  <tile id="0">
+   <objectgroup draworder="index" id="3">
+    <object id="3" x="0.0946186" y="22.8031" width="32.1703" height="9.178"/>
+   </objectgroup>
+  </tile>
+  <tile id="1">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.0946186" y="22.8031" width="32.0757" height="9.08338"/>
+   </objectgroup>
+  </tile>
+  <tile id="2">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.0946186" y="22.8031" width="31.7918" height="9.178"/>
+   </objectgroup>
+   <animation>
+    <frame tileid="0" duration="200"/>
+    <frame tileid="1" duration="200"/>
+    <frame tileid="2" duration="200"/>
+   </animation>
+  </tile>
+  <tile id="3">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.283856" y="26.9663" width="31.508" height="4.82555"/>
+   </objectgroup>
+  </tile>
+  <tile id="4">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.0946186" y="24.6954" width="31.508" height="6.52868"/>
+   </objectgroup>
+  </tile>
+  <tile id="5">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.0946186" y="23.1815" width="31.508" height="8.70491"/>
+   </objectgroup>
+   <animation>
+    <frame tileid="3" duration="200"/>
+    <frame tileid="4" duration="200"/>
+    <frame tileid="5" duration="200"/>
+   </animation>
+  </tile>
+  <tile id="8">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.0946186" y="0.189237" width="31.6972" height="31.508"/>
+   </objectgroup>
+   <animation>
+    <frame tileid="8" duration="200"/>
+    <frame tileid="9" duration="200"/>
+    <frame tileid="10" duration="200"/>
+   </animation>
+  </tile>
+  <tile id="9">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.473093" y="0.283856" width="31.3187" height="31.6026"/>
+   </objectgroup>
+  </tile>
+  <tile id="10">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.189237" y="0.189237" width="31.508" height="31.6972"/>
+   </objectgroup>
+  </tile>
+  <tile id="11">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.66233" y="12.9627" width="30.9403" height="18.9237"/>
+   </objectgroup>
+  </tile>
+  <tile id="12">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.0946186" y="13.9089" width="31.6972" height="17.9775"/>
+   </objectgroup>
+  </tile>
+  <tile id="13">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.473093" y="10.1242" width="31.4134" height="21.8569"/>
+   </objectgroup>
+   <animation>
+    <frame tileid="11" duration="200"/>
+    <frame tileid="12" duration="200"/>
+    <frame tileid="13" duration="200"/>
+   </animation>
+  </tile>
+  <tile id="19">
+   <animation>
+    <frame tileid="16" duration="200"/>
+    <frame tileid="17" duration="200"/>
+    <frame tileid="18" duration="200"/>
+    <frame tileid="19" duration="200"/>
+   </animation>
+  </tile>
+  <tile id="21">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="-0.283856" y="26.9663" width="31.8865" height="5.1094"/>
+   </objectgroup>
+  </tile>
+  <tile id="22">
+   <objectgroup draworder="index" id="2">
+    <object id="2" x="0.189237" y="26.3986" width="31.6972" height="5.67711"/>
+   </objectgroup>
+  </tile>
+  <tile id="24">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.189237" y="23.2762" width="31.6972" height="8.42105"/>
+   </objectgroup>
+  </tile>
+  <tile id="25">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.283856" y="22.9923" width="31.1295" height="8.70491"/>
+   </objectgroup>
+  </tile>
+  <tile id="26">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.189237" y="23.3708" width="31.4134" height="8.1372"/>
+   </objectgroup>
+  </tile>
+  <tile id="27">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.567711" y="18.5452" width="31.2241" height="12.9627"/>
+   </objectgroup>
+  </tile>
+  <tile id="28">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.567711" y="18.6399" width="31.0349" height="13.0574"/>
+   </objectgroup>
+  </tile>
+  <tile id="29">
+   <objectgroup draworder="index" id="2">
+    <object id="4" x="0.0946186" y="0.0946186" width="31.9811" height="31.9811"/>
+   </objectgroup>
+  </tile>
+  <tile id="30">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="-0.0946186" y="0.0946186" width="31.9811" height="31.8865"/>
+   </objectgroup>
+  </tile>
+  <tile id="32">
+   <objectgroup draworder="index" id="2">
+    <object id="2" x="0" y="0" width="32.0757" height="32.0757"/>
+   </objectgroup>
+  </tile>
+  <tile id="33">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="-0.0946186" y="0.0946186" width="31.9811" height="31.6972"/>
+   </objectgroup>
+  </tile>
+  <tile id="34">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="0" width="31.9811" height="31.9811"/>
+   </objectgroup>
+  </tile>
+  <tile id="35">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.283856" y="23.2762" width="31.6972" height="8.51567"/>
+   </objectgroup>
+  </tile>
+  <tile id="36">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.189237" y="23.1815" width="31.4134" height="8.79953"/>
+   </objectgroup>
+  </tile>
+  <tile id="37">
+   <objectgroup draworder="index" id="2">
+    <object id="2" x="31.3187" y="0.378474">
+     <polygon points="0,0 -30.8457,30.9403 -31.1295,-0.283856"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="38">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="31.6026" y="-0.0946186">
+     <polygon points="0,0 -31.508,0 -31.7918,32.1703"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="42">
+   <animation>
+    <frame tileid="40" duration="200"/>
+    <frame tileid="41" duration="200"/>
+    <frame tileid="42" duration="200"/>
+   </animation>
+  </tile>
+  <tile id="45">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.189237" y="0.473093">
+     <polygon points="0,0 31.3187,31.2241 31.6026,-0.473093"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="46">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.0946186" y="0.189237">
+     <polygon points="0,0 31.6972,-0.0946186 31.6026,31.4134"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="48">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="5.5825" y="0.378474">
+     <polygon points="0,0 -4.0686,6.05559 -4.82555,13.3412 -4.82555,23.56 -0.189237,30.6564 2.36546,31.7918 26.3986,31.6026 26.3986,-0.473093"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="49">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="26.304" y="0.473093">
+     <polygon points="0,0 3.40627,4.73093 5.20402,12.0166 4.82555,21.1946 2.74394,28.0071 -0.946186,31.6026 -26.4932,31.6026 -26.3986,-0.473093"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="50">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.0946186" y="0.283856">
+     <polygon points="0,0 -0.189237,24.9793 3.87936,29.521 12.2058,31.508 22.8977,31.508 29.8048,28.0071 31.8865,23.3708 31.8865,-0.189237"/>
+    </object>
+   </objectgroup>
+  </tile>
+  <tile id="51">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0" y="1.23004" width="31.9811" height="30.6564"/>
+   </objectgroup>
+  </tile>
+  <tile id="52">
+   <objectgroup draworder="index" id="2">
+    <object id="1" x="0.473093" y="0.283856" width="31.2241" height="31.3187"/>
+   </objectgroup>
+  </tile>
+ </tileset>
+ <layer id="1" name="bg" width="58" height="21">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAACuWWwQqDMAyGc+vRB/Cwwxjs4EDmGB73/k+1BVrIssQWW1PrfvjBxhr7NW0VoI6uH58MXUMlGEdyPfu8E4ljrCNta5Wq4xN+WZ1/B2e15owxvkhfR65vQt8gqa4OvlmtOWM16ny/gTyDdZPmZ/b3UBIrj1tKqt8oxFMdmFLWsKW0NbqGla5LKQ+N1+R8MK/5TlBW3MNSXQHqcl6Yl84kKQcy4D5OqWuJ830La4x8rlq2xlgq/7myNcacMUqcrWti7fAftHfO2Jhc5H7IwX3PHFcpLfH1irU+e9yfKfxH8b9wSqwtnCWp0hiOwkeVs6Zb05aMb2tPtQ4IEwAA
+  </data>
+ </layer>
+ <objectgroup id="2" name="objects">
+  <object id="1" name="diamond" gid="7" x="480" y="416" width="32" height="32"/>
+  <object id="2" name="diamond" gid="7" x="608" y="416" width="32" height="32"/>
+  <object id="3" name="diamond" gid="7" x="768" y="480" width="32" height="32"/>
+  <object id="4" name="ring" gid="45" x="1056" y="416" width="32" height="32"/>
+  <object id="5" name="trophy" gid="20" x="1088.6" y="511.682" width="32" height="32"/>
+  <object id="6" name="diamond" gid="7" x="320" y="480" width="32" height="32"/>
+  <object id="8" name="vines" gid="43" x="192" y="480" width="32" height="32"/>
+  <object id="9" name="vines" gid="43" x="288" y="480" width="32" height="32"/>
+  <object id="10" name="vines" gid="43" x="416" y="480" width="32" height="32"/>
+  <object id="11" name="vines" gid="43" x="448" y="480" width="32" height="32"/>
+  <object id="12" name="vines" gid="43" x="544" y="480" width="32" height="32"/>
+  <object id="13" name="vines" gid="43" x="640" y="480" width="32" height="32"/>
+  <object id="14" name="vines" gid="43" x="736" y="480" width="32" height="32"/>
+  <object id="15" name="vines" gid="43" x="832" y="480" width="32" height="32"/>
+  <object id="16" name="vines" gid="43" x="864" y="480" width="32" height="32"/>
+  <object id="17" name="vines" gid="43" x="960" y="480" width="32" height="32"/>
+  <object id="18" name="fire" gid="14" x="1120" y="544" width="32" height="32"/>
+  <object id="19" name="fire" gid="14" x="1152" y="608" width="32" height="32"/>
+  <object id="20" name="fire" gid="14" x="1184" y="608" width="32" height="32"/>
+  <object id="21" name="fire" gid="14" x="1216" y="608" width="32" height="32"/>
+  <object id="22" name="fire" gid="14" x="1248" y="576" width="32" height="32"/>
+  <object id="23" name="fire" gid="14" x="1280" y="544" width="32" height="32"/>
+  <object id="24" name="fire" gid="14" x="1312" y="544" width="32" height="32"/>
+  <object id="25" name="acid_small" gid="3" x="1568" y="480" width="32" height="32"/>
+  <object id="26" name="acid_small" gid="3" x="1600" y="480" width="32" height="32"/>
+  <object id="27" name="acid_small" gid="3" x="1632" y="480" width="32" height="32"/>
+  <object id="28" name="vines" gid="43" x="1152" y="512" width="32" height="32"/>
+  <object id="29" name="vines" gid="43" x="1152" y="544" width="32" height="32"/>
+  <object id="30" name="vines" gid="43" x="1216" y="544" width="32" height="32"/>
+  <object id="31" name="vines" gid="43" x="1216" y="512" width="32" height="32"/>
+  <object id="32" name="vines" gid="43" x="1216" y="480" width="32" height="32"/>
+  <object id="33" name="vines" gid="43" x="1280" y="416" width="32" height="32"/>
+  <object id="34" name="vines" gid="43" x="1280" y="448" width="32" height="32"/>
+  <object id="35" name="vines" gid="43" x="1280" y="480" width="32" height="32"/>
+  <object id="36" name="vines" gid="43" x="1312" y="416" width="32" height="32"/>
+  <object id="37" name="vines" gid="43" x="1312" y="448" width="32" height="32"/>
+  <object id="38" name="vines" gid="43" x="1344" y="416" width="32" height="32"/>
+  <object id="74" name="collision" x="64" y="448" width="32" height="32"/>
+  <object id="79" name="collision" x="1152" y="448" width="32" height="32"/>
+  <object id="83" name="collision" x="1216" y="416" width="32" height="32"/>
+  <object id="91" name="door" gid="21" x="1376" y="320" width="32" height="32"/>
+  <object id="98" name="collision" x="0" y="0" width="64" height="672"/>
+  <object id="99" name="collision" x="64" y="480" width="1025.33" height="192"/>
+  <object id="100" name="collision" x="1082.67" y="512" width="37.3333" height="160"/>
+  <object id="101" name="collision" x="1152" y="544" height="128"/>
+  <object id="102" name="collision" x="1152" y="608" width="416" height="64"/>
+  <object id="103" name="collision" x="1280" y="480" width="576" height="96"/>
+  <object id="104" name="collision" x="1248" y="576" width="608" height="32"/>
+  <object id="105" name="collision" x="1568" y="608" width="288" height="64"/>
+  <object id="106" name="collision" x="1408" y="0" width="448" height="352"/>
+  <object id="107" name="collision" x="1344" y="320" width="64" height="64"/>
+  <object id="108" name="collision" x="1280" y="352" width="64" height="32"/>
+  <object id="110" name="collision" x="1024" y="128" width="384" height="128"/>
+  <object id="113" name="collision" x="1024" y="256" width="192" height="32"/>
+  <object id="114" name="collision" x="1024" y="288" width="160" height="32"/>
+  <object id="115" name="collision" x="1024" y="320" width="128" height="32"/>
+  <object id="116" name="collision" x="1024" y="352" width="96" height="32"/>
+  <object id="117" name="collision" x="64" y="0" width="960" height="384"/>
+  <object id="119" name="collision" x="1408" y="352" width="352" height="32"/>
+  <object id="120" name="collision" x="1600" y="384" width="32" height="32"/>
+  <object id="121" name="player" gid="57" x="96" y="480" width="32" height="32"/>
+  <object id="123" name="enemy" gid="61" x="704" y="416" width="32" height="32"/>
+  <object id="125" name="enemy" gid="126" x="1088" y="448" width="32" height="32"/>
+ </objectgroup>
+</map>
