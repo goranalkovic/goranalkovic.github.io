@@ -8,9 +8,17 @@
 </head>
 
 <style>
+  @font-face {
+	font-family: 'DM Sans';
+	font-style: normal;
+	font-display: swap;
+	font-weight: 400;
+	src: local('DM Sans Regular'), local('DMSans-Regular'), url('https://goranalkovic.com/fonts/dm-sans-v5-latin-ext_latin-regular.woff2') format('woff2'), url('https://goranalkovic.com/fonts/dm-sans-v5-latin-ext_latin-regular.woff') format('woff');
+}
+
   body,
   html {
-    font-family: sans-serif;
+    font-family: 'DM Sans', sans-serif;
 
     width: 100%;
     height: 100%;
@@ -26,11 +34,14 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
+    background-color: #c7e1f3
   }
 
   a {
     display: block;
-    text-decoration: none;
+    color: #fff;
+	  text-decoration: none;
+    transition: 0.5s color;
     margin: 1rem 0;
   }
 
@@ -40,7 +51,8 @@
   }
 
   a:hover {
-    text-decoration: underline;
+    color: #0258FE;
+    text-decoration: none;
   }
 
   img {
@@ -50,14 +62,16 @@
 
   @media (prefers-color-scheme: dark) {
     html {
-      background: #222;
+      background: #151515;
       color: #fff;
     }
 
     a,
     a:visited {
-      color: hsl(269, 40%, 59%);
+      color: #fff;
     }
+    
+    a:hover {color: #FC5B5B}
   }
 </style>
 
