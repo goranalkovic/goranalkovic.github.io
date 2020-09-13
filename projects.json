@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Simple piano",
+    "slug": "simple-piano",
+    "year": 2019,
+    "description": "A Svelte-based PWA that uses SoundFontPlayer for playing many kinds of instruments",
+    "url": "https://piano.goranalkovic.com/",
+    "githubUrl": "https://github.com/goranalkovic/SimplePiano",
+    "featured": true,
+    "technologies": "Svelte, HTML/CSS",
+    "type": "PWA",
+    "images": [
+      {
+        "src": "img/projects/simplePiano/1.jpg",
+        "subHtml": "Main page"
+      }
+    ]
+  },
+  {
+    "name": "COVID-19 tracker",
+    "slug": "covid19-hr",
+    "year": 2020,
+    "description": "A Flutter app that presents COVID-19 case data in a nice way",
+    "url": "https://covid19.goranalkovic.com/",
+    "githubUrl": "https://github.com/goranalkovic/covid19hr-flutter",
+    "featured": true,
+    "technologies": "Flutter",
+    "type": "Hybrid application",
+    "images": [
+      {
+        "src": "img/projects/simplePiano/1.jpg",
+        "subHtml": "Main page"
+      }
+    ]
+  }
+]
